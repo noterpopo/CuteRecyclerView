@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/license-MIT-blue.svg">
 </p>
 
-### 参考[Zee Young](https://dribbble.com/shots/3452985-Boom)的设计，在Android平台上实现了包含多选删除和侧滑删除(包括延时删除)的RecyclerView。###
+### 参考[Zee Young](https://dribbble.com/shots/3452985-Boom)的设计，在Android平台上实现了包含多选删除和侧滑删除(包括延时删除)的RecyclerView。
 ---
 ### License ###
 ```
