@@ -13,8 +13,20 @@
 </p>
 
 ### 参考[Zee Young](https://dribbble.com/shots/3452985-Boom)的设计，在Android平台上实现了包含多选删除和侧滑删除(包括延时删除)的RecyclerView。
----
+
+### 截图 ###
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/noterpopo/CuteRecyclerView/master/images/1-min.gif">
+    <img src="https://raw.githubusercontent.com/noterpopo/CuteRecyclerView/master/images/2-min.gif">
+</p>
+
+<p>
+    <img src="https://raw.githubusercontent.com/noterpopo/CuteRecyclerView/master/images/3-min.gif">
+</p>
+
 ### License ###
+
 ```
 MIT License
 
@@ -38,9 +50,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-
-
-
-
-
-
