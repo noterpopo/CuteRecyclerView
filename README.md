@@ -20,13 +20,13 @@
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/noterpopo/CuteRecyclerView/master/images/1-min.gif">
-    <img src="https://raw.githubusercontent.com/noterpopo/CuteRecyclerView/master/images/2-min.gif">
+    <img src="https://raw.githubusercontent.com/noterpopo/CuteRecyclerView/master/images/3-min.gif">
 </p>
 
 #### 批量删除 ####
 
 <p>
-    <img src="https://raw.githubusercontent.com/noterpopo/CuteRecyclerView/master/images/3-min.gif">
+    <img src="https://raw.githubusercontent.com/noterpopo/CuteRecyclerView/master/images/2-min.gif">
 </p>
 
 ---
